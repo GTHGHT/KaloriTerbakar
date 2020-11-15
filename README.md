@@ -3,19 +3,19 @@
 Fitur Penghitung Kalori Terbakar
 
 
-Hitung Kalori Terbakar
+- Hitung Kalori Terbakar
 
-Lihat Kegiatan
+- Lihat Kegiatan
 
-Ubah Kegiatan
+- Ubah Kegiatan
 
-Hapus Kegitan
+- Hapus Kegitan
 
-Riwayat disimpan di riwayat/riwayat.csv
+- Riwayat disimpan di riwayat/riwayat.csv
 
-Riwayat akan dimuat saat program mulai
+- Riwayat akan dimuat saat program mulai
 
-Riwayat akan disimpan saat program mati
+- Riwayat akan disimpan saat program mati
 
 
 Daftar MET (Metabolics Equivalent) bisa dilihat di : https://sites.google.com/site/compendiumofphysicalactivities/Activity-Categories
